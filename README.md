@@ -7,7 +7,7 @@ Simple library written in PHP. It will bring functions for manipulating with man
 
 to-do list
 -----------
-[] create better name
-[] form generator
-[] working with database
-[] navigation
+- [] create better name
+- [] form generator
+- [] working with database
+- [] navigation
